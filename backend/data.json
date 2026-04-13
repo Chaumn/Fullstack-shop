@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun basic",
+    "price": 150000
+  },
+  {
+    "id": 2,
+    "name": "Quần jeans slim",
+    "price": 450000
+  },
+  {
+    "id": 1776073490545,
+    "name": "áo",
+    "price": 1700000
+  },
+  {
+    "id": 1776073499112,
+    "name": "quần",
+    "price": 2000000
+  }
+]

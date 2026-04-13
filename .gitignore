@@ -1,0 +1,18 @@
+# Dependencies
+backend/node_modules
+frontend/node_modules
+
+# Next.js
+frontend/.next
+frontend/out
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+CLAUDE.md
+AGENTS.md
